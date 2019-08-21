@@ -4,7 +4,7 @@
     "description": "This extension helps people write standard bootstrap templates",
     "version": "1.0.0",
     "icon": "icon.png",
-    "publisher": "Mina Ashraf",
+    "publisher": "Mina",
     "engines": {
         "vscode": "^1.37.0"
     },
