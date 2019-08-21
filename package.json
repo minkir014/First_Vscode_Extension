@@ -1,0 +1,25 @@
+{
+    "name": "bootstrap4-snippets",
+    "displayName": "Bootstrap4 Snippets",
+    "description": "This extension helps people write standard bootstrap templates",
+    "version": "1.0.0",
+    "icon": "icon.png",
+    "engines": {
+        "vscode": "^1.37.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "html",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "javascriptreact",
+                "path": "./snippets/snippets.json"
+            }
+        ]
+    }
+}
