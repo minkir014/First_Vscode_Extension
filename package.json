@@ -7,6 +7,10 @@
     "engines": {
         "vscode": "^1.37.0"
     },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/minkir014/First_Vscode_Extension.git"
+    },
     "categories": [
         "Snippets"
     ],
